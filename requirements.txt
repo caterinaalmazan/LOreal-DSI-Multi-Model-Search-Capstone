@@ -8,3 +8,4 @@ sentence-transformers==4.1.0
 Pillow==9.4.0      
 requests==2.32.3   
 openai==1.75.0
+dotenv
