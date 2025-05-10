@@ -32,7 +32,7 @@ OPENAI_API_KEY=your_real_key_here
 
 ---
 
-4. **Set Up a Virtual Environment
+3. **Set Up a Virtual Environment**
 
 To avoid dependency conflicts, it's recommended to use a Python virtual environment.
 
