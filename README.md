@@ -32,7 +32,18 @@ OPENAI_API_KEY=your_real_key_here
 
 ---
 
-3. **Install Required Packages**
+4. **Set Up a Virtual Environment
+
+To avoid dependency conflicts, it's recommended to use a Python virtual environment.
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+---
+
+4. **Install Required Packages**
 
 We manage dependencies with `requirements.txt`. To install:
 
@@ -42,7 +53,7 @@ pip install -r requirements.txt
 
 ---
 
-4. **Run the App**
+5. **Run the App**
 
 After setting up your environment and installing dependencies, you can run the project:
 
